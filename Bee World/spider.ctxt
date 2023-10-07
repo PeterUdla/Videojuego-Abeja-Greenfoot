@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=spider
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ spider\ here.\r\n\ \r\n\ @author\ Edwin\ Chavez\ Loloy\ \r\n\ @version\ 2.0\ 2019-09-26\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Procedimiento\ donde\ se\ inician\ los\ eventos\ o\ acciones\ a\ tomar\ dentro\ del\ actor\ ara\u00F1a\r\n
+numComments=2

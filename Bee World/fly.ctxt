@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=fly
+comment0.text=\r\n\ Actor\ mosca\ la\ cual\ sera\ la\ comida\ de\ las\ abejas\r\n\ \r\n\ @author\ Edwin\ Chavez\ Loloy\ \r\n\ @version\ 2.0\ 2019-09-26\r\n
+comment1.params=velocidad\ rotar
+comment1.target=fly(int,\ int)
+comment1.text=\r\n\ Constructor\ que\ recibe\ 2\ parametros\ donde\ es\ velocidad\ con\ la\ cual\ avanzara\ y\ el\ angulo\ en\ grados\ que\ debe\ girar\ el\ actor\ mosca\r\n
+comment2.params=
+comment2.target=void\ animateImage()
+comment2.text=\r\n\ Animacion\ para\ dar\ el\ efecto\ de\ que\ la\ mosca\ vuele\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ procedimiento\ donde\ se\ inician\ los\ eventos\ o\ acciones\ a\ tomar\ dentro\ del\ actor\ mosca\r\n
+comment4.params=
+comment4.target=void\ MaxVelocidad()
+comment4.text=\r\n\ implementaci\u00F3n\ de\ velocidad\ maxima\ tomando\ como\ parametros\ los\ atributos\ de\ la\ clase\ mosca\r\n
+numComments=5
